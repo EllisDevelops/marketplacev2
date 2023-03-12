@@ -1,0 +1,14 @@
+# Skript created by prydu
+# Distributed by xenon.club
+
+on chat:
+    replace all ":heart:" and "<3" in message with "❤"
+    replace all ":plane:" in message with "✈"
+    replace all ":good:" and ":yes:" and ":check:" and ":y:" and ":tick:" and ":checkmark:" in message with "✔"
+    replace all ":x:" and ":no:" in message with "✘"
+    replace all ":music:" in message with "♫"
+    replace all ":copyright:" in message with "©"
+    replace all ":skull:" in message with "☠"
+    replace all ":yinyang:" in message with "☯"
+    replace all ":king:" in message with "♛"
+    replace all ":tm:" in message with "™"
